@@ -12,11 +12,7 @@ public class TestaReferencias {
         System.out.println(LivroA.titulo);
 
 
-
-
     }
-
-
 
 
 }

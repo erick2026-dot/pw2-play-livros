@@ -2,7 +2,7 @@ public class Temperatura {
     String descricao;
     String cidade;
     int dias;
-    String dia_semana;
+    String diaSemana;
     int temperatura;
     int vento;
     float chuva;

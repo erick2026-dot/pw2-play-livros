@@ -3,12 +3,9 @@ import java.time.LocalTime;
 public class Receita {
     String  nome;
     float peso;
-    int procoes;
+    int porcoes;
     LocalTime duracao;
     String avaliacao;
     float dificuldade;
     double preco;
-
-
-
 }

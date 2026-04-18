@@ -8,7 +8,7 @@ public class CarrinhoCompras {
     static void main(){
         Livro primeiroLivro = new Livro();
         primeiroLivro.titulo = "O Poder do Hábito";
-        primeiroLivro.autor = "Charles Duhigg";
+        primeiroLivro.autor1 = "Charles Duhigg";
         primeiroLivro.narrador = "Carlos Seidl";
         primeiroLivro.editora = "Objetiva";
         primeiroLivro.duracao = LocalTime.of(10, 45);

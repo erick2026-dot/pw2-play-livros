@@ -1,11 +1,13 @@
 import java.time.LocalTime;
+import Enum.NivelDificuldadeEnum;
+import Enum.CustoEnum;
 
 public class Receita {
     String nome;
-    float peso;
+    public Autor autor;
+    int tempoPreparo;
+    public NivelDificuldadeEnum dificuldade;
+    public CustoEnum custo;
     int porcoes;
-    LocalTime duracao;
-    String avaliacao;
-    int dificuldade;
-    double preco;
+    String descricao;
 }
